@@ -1,0 +1,8 @@
+1. Define the projects features and pages to work on
+    page 1, 3 features: add, show all and delete
+2. Project Initial Setup
+3. Start with HTML
+4. Go to CSS
+5. Finish with JS
+6. Testing and fixing any issues if found
+7. Deploying the project to production
